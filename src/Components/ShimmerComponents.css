@@ -1,0 +1,31 @@
+
+.dark-mode .shimmer-card{
+background-color: hsl(209, 23%, 24%);
+}
+.shimmer-card{
+    height: 450px;
+    width: 350px;
+    background-color: #FBFBFB;
+}
+.shimmer-card .img{
+    width: 350px;
+    height: 235px;
+    background-color: #E6ECF2;
+}
+.shimmer-card .country-content h2{
+    width: 302px;
+    height: 28px;
+    background-color: #E6ECF2;
+}
+.shimmer-card .country-content p{
+    width: 302px;
+    height: 18px;
+    background-color: #E6ECF2;
+}
+.dark-mode .shimmer-card .img,
+.dark-mode .shimmer-card .country-content h2,
+.dark-mode .shimmer-card .country-content p
+{
+ background-color: hsl(209, 23%, 20%);
+
+}

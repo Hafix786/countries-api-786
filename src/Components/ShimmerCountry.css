@@ -1,0 +1,64 @@
+
+.dark-mode .shimmer-main-div{
+    background-color: var(--dark-mode-background);
+
+    /* background-color: hsl(209, 23%, 24%); */
+}
+.shimmer-main-div {    
+    background-color: #FBFBFB;
+}
+.shimmer-main-div .back-btn{
+    height: 34px;
+    width: 126px;
+    background-color: #E6ECF2;
+}
+
+.shimmer-main-div .flag{
+    height: 337px;
+    width: 500px;
+    background-color: #E6ECF2;
+}
+.shimmer-main-div .country-name{
+    width: 302px;
+    height: 28px;
+    background-color: #E6ECF2;
+}
+.shimmer-main-div .native-name,
+.shimmer-main-div .population,
+.shimmer-main-div .region,
+.shimmer-main-div .sub-region,
+.shimmer-main-div .capital,
+.shimmer-main-div .domain,
+.shimmer-main-div .currencies,
+.shimmer-main-div .languages
+
+{
+    width: 145px;
+    height: 14px;
+    background-color: #E6ECF2;
+    
+}
+
+.shimmer-main-div .border-countries h5{
+    width: 322px;
+    height: 60px;
+    background-color: #E6ECF2;
+}
+
+.dark-mode .shimmer-main-div .back-btn,
+.dark-mode .shimmer-main-div .flag,
+.dark-mode .shimmer-main-div .country-name,
+.dark-mode .shimmer-main-div .native-name,
+.dark-mode .shimmer-main-div .population,
+.dark-mode .shimmer-main-div .region,
+.dark-mode .shimmer-main-div .sub-region,
+.dark-mode .shimmer-main-div .capital,
+.dark-mode .shimmer-main-div .domain,
+.dark-mode .shimmer-main-div .currencies,
+.dark-mode .shimmer-main-div .languages,
+.dark-mode .shimmer-main-div .border-countries h5
+
+{
+    background-color: hsl(209, 23%, 24%);
+    
+}
