@@ -1,7 +1,7 @@
 import React, { useContext, useState } from 'react'
 
 import Search from "./Search";
-import FilterByRegion from "./FIlterByRegion";
+import FilterByRegion from "./FilterByRegion";
 import CountriesList from "./CountriesList";
 import ShimmerComponents from "./ShimmerComponents";
 import { ThemeContext } from '../contexts/ThemeContexts';
